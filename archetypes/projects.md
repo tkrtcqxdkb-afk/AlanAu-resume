@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ Alan Au | title }}"
 date: {{ .Date }}
 featured: true
 description: "Text used in summary on main page"
